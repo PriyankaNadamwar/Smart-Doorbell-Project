@@ -21,7 +21,7 @@ see /schema elec sonnette connecter/schema elec sonnette connecter.pdf
 * Kavita
 * Pooja
   
-(https://selenium.dev/)
+
 
 ## Getting Started
 1. **Modify the Sketch**:

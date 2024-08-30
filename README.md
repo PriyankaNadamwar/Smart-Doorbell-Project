@@ -15,6 +15,12 @@ This project implements a smart doorbell system using an ESP32 microcontroller. 
 ## Circuit Diagram
 see /schema elec sonnette connecter/schema elec sonnette connecter.pdf
 
+##Contributors
+* Priyanka
+* Arti
+* Kavita
+* Pooja
+
 
 ## Getting Started
 1. **Modify the Sketch**:

@@ -1,4 +1,4 @@
-# Smart-Doorbell-Project
+# My First Automation Project -Smart-Doorbell-Project 
 # Smart Doorbell IoT
 
 This project implements a smart doorbell system using an ESP32 microcontroller. It integrates with Home Assistant for remote monitoring and provides over-the-air (OTA) programming capability using Arduino OTA. The system utilizes WiFiManager for easy initial setup and connection management.
